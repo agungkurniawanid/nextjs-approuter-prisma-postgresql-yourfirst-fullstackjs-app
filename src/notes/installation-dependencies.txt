@@ -1,0 +1,2 @@
+- npm install -D ts-node
+- npx ts-node seeder.ts
